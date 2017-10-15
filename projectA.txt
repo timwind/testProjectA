@@ -1,2 +1,2 @@
 this project A
-version:3 master
+version:666 master
